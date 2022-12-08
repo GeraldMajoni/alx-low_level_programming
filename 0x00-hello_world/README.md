@@ -5,4 +5,5 @@
 4. Script for printing with puts
 5. Script to print using printf
 6. Script for Size
-7. Script for assembler code 
+7. Script for assembler code
+8. Code to print text without printf and puts 
