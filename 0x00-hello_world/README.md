@@ -2,3 +2,4 @@
 1. Script to compile C file and not link saving output
 2. Script to generate assembly code
 3. Script that compiles a C file and creates an executable
+4. Script for printing with puts
