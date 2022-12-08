@@ -4,3 +4,4 @@
 3. Script that compiles a C file and creates an executable
 4. Script for printing with puts
 5. Script to print using printf
+6. Script for Size 
