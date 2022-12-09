@@ -11,13 +11,16 @@ int main(void)
 {
 	int i = 48, c = 44, s = 32;
 
-	while (i < 58)
-	{
-		putchar(i);
-		putchar(c);
-		putchar(s);
-		i++;
-	}
-	putchar('\n');
+	do {
+		if (i == 57)
+		{
+			putchar(i);
+			i = i + 1;
+			continue;
+		}
+	putchar(i);
+	putchar(c);
+	putchar(s);
+	} while (i < 58);
 	return (0);
 }
