@@ -12,16 +12,16 @@ int main(void)
 	int i = 48, c = 44, s = 32;
 
 	do {
+		putchar(i);
 		if (i == 57)
 		{
-			putchar(i);
 			i = i + 1;
 			continue;
 		}
-	putchar(i);
 	putchar(c);
 	putchar(s);
 	i++;
 	} while (i < 58);
+	putchar('\n');
 	return (0);
 }
