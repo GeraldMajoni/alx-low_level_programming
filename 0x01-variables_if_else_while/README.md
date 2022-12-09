@@ -4,4 +4,4 @@
 3. Program to print upper and lower case alphabet
 4. Program to alphabet except eq
 5. Program to print numbers 0-9
-
+6. Program to print numbers on a new line
