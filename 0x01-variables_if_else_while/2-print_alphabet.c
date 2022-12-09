@@ -14,6 +14,10 @@ int main(void)
 	{
 		putchar(i);
 		i++;
+		if (i ==EOF)
+		{
+			putchar ('\n');
+		}
 	}
 	return (0);
 }
