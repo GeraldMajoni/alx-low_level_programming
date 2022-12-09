@@ -21,6 +21,7 @@ int main(void)
 	putchar(i);
 	putchar(c);
 	putchar(s);
+	i++;
 	} while (i < 58);
 	return (0);
 }
