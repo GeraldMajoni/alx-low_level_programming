@@ -6,3 +6,4 @@
 5. Program to print numbers 0-9
 6. Program to print numbers on a new line
 7. Programto print lower case in reverse
+8. Program to put commas and space on numbers
