@@ -10,9 +10,10 @@ int main(void)
 {
 	int i = 97;
 
-	for (i ; i < 123; i++)
+	while (i < 123)
 	{
 		putchar(i);
+		i++;
 	}
 	return (0);
 }
