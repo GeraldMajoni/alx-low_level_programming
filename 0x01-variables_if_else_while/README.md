@@ -5,3 +5,4 @@
 4. Program to alphabet except eq
 5. Program to print numbers 0-9
 6. Program to print numbers on a new line
+7. Programto print lower case in reverse
