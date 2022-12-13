@@ -2,10 +2,14 @@
 
 /**
  * print_last_digit - Compute the last digit
- * @t: value
+ * @n: value
  * Return: Last digit
  */
 
-int print_last_digit(int t)
-	return (t % 10);
+int print_last_digit(int n)
+{
+	int n, m;
 
+	m = n % 10
+	return (m);
+}
