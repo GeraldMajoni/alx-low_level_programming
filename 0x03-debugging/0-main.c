@@ -11,7 +11,6 @@ int main(void)
 
         i = 0;
         positive_or_negative(i);
-        printf("checkfor correct output");
 
         return (0);
 }
