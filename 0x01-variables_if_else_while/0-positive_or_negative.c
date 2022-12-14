@@ -2,6 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 #include "main.h"
+
 /**
  * main - Entry to program
  * Return: (0) (successful)
