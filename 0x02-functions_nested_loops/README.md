@@ -7,3 +7,4 @@
 6. Program to find absolute value
 7. Program to print last digit
 8. Incrementing minutes
+9. Program for 9 Times Table
