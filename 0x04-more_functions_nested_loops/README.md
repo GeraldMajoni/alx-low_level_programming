@@ -7,3 +7,4 @@
 6. Program to print straight line
 7. Program to print diagonal line
 8. Program to print a square
+9. Program for Fizz Buzz
