@@ -4,10 +4,10 @@
  * mul - Entry to program
  * @a: first integer
  * @b: second integer
- * Return: (0) success
+ * Return: result success
  */
 
 int mul(int a, int b)
 {
-	mul(a, b);
+	return (a, b);
 }
