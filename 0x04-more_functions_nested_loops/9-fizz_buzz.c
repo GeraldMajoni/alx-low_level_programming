@@ -22,8 +22,6 @@ int main(void)
 			printf("%s", b);
 		else
 			printf("%d", i);
-		if (i == 101)
-			continue;
 	}
 	printf("\n");
 
