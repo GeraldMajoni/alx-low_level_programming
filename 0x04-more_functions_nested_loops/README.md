@@ -5,3 +5,4 @@
 4. Program to print numbers excluding 2 and 4
 5. Program to print more numbers
 6. Program to print straight line
+7. Program to print diagonal line
