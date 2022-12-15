@@ -7,7 +7,7 @@
  * Return: (1) (success)
  */
 
-int _isupper(int c);
+int _isupper(int c)
 {
 	int c;
 
