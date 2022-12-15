@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/** main - entry into program
+/**
+ * main - entry into program
  * print
- * @i: integer to iterate
  * Return: nil
  */
 
@@ -19,7 +19,7 @@ int main(void)
 		else if (i % 5 == 0)
 			printf("%s", b);
 		else
-			printf("%d", i)
+			printf("%d", i);
 	}
 	printf("\n");
 }
