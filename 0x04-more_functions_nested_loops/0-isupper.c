@@ -15,7 +15,8 @@ int _isupper(int c);
 	{
 		_putchar(c);
 		_putchar(':');
-		_putchar(' ')
+		_putchar(' ');
+		_putchar('1');
 		return (1);
 	}
 	else
@@ -23,6 +24,7 @@ int _isupper(int c);
 		_putchar(c);
 		_putchar(':');
 		_putchar(' ');
+		_putchar('0');
 		return (0);
 	}
 }
