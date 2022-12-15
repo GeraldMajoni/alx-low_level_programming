@@ -9,3 +9,4 @@
 8. Program to print a square
 9. Program for Fizz Buzz
 10. Program to print triangles
+11. Program for prime factor
