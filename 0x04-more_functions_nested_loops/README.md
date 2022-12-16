@@ -10,3 +10,4 @@
 9. Program for Fizz Buzz
 10. Program to print triangles
 11. Program for prime factor
+12. Program to print an integer
