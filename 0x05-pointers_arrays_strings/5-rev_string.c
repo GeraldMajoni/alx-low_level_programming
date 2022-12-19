@@ -2,7 +2,7 @@
 
 /**
  * rev_string - printing string in reverse
- * _strlen- count
+ * _strlen - count string length
  * @s: string
  * Return: Nil
  */
