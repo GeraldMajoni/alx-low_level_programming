@@ -8,3 +8,4 @@
 7. Function to print last half of string
 8. Program to print n elements of array
 9. Program to copy string
+10. Program to generate random passwords
