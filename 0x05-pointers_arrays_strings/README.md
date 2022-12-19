@@ -7,3 +7,4 @@
 6. Function for every character of a string
 7. Function to print last half of string
 8. Program to print n elements of array
+9. Program to copy string
