@@ -5,3 +5,4 @@
 4. Program to reverse string
 5. Function to reverse a string
 6. Function for every character of a string
+7. Function to print last half of string
