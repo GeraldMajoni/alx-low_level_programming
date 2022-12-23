@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *cap_string - function that capitalize first character of word
- *@str: string to capitalize
- *Return: returns the capitalized string
+ * cap_string - function that capitalize first character of word
+ * @str: string to capitalize
+ * Return: returns the capitalized string
  */
 
 char *cap_string(char *str)
@@ -30,5 +30,6 @@ char *cap_string(char *str)
 				str[index - 1] == '}')
 			str[index] -= 32;
 	}
+	_putchar('\n');
 	return (str);
 }
