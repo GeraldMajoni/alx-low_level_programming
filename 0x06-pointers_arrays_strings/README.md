@@ -5,5 +5,6 @@
 4. Reversing array of integers
 5. Changing lower case to upper case
 6. Capitalizing all words
+7. Encoding string
 
  
