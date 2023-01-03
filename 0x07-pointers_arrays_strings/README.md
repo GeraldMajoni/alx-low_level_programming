@@ -7,3 +7,4 @@
 6. Function that prints the chessboard.
 7. Function that prints the sum of the two diagonals of a square matrix of integers
 8. Function that sets the value of a pointer to a char
+9. Cracking password
