@@ -5,3 +5,4 @@
 4. Function that returns a pointer to the byte in s that matches one of the bytes in accept, or NULL if no such byte is found
 5. Function finds the first occurrence of the substring needle in the string haystack
 6. Function that prints the chessboard.
+7. Function that prints the sum of the two diagonals of a square matrix of integers
